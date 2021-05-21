@@ -1,3 +1,1 @@
-Hello World
-this is a change
-I typed this on github
+This is a simple Program to say Hello, Git world and to help learn how to use Github and repositories
